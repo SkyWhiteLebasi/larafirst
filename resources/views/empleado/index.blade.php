@@ -18,7 +18,7 @@
 
 
 
-<a href="{{ url('empleado/create')}}" type="button" class="btn btn-primary"> Registrar empleado</a>
+<a href="{{ url('empleado/create')}}" type="button" class="btn btn-primary"> Registrar empleado de lunes</a>
 <br>
 <br>
 <table class="table">
